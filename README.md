@@ -36,7 +36,7 @@
 <div  align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mk-saadi&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mk-saadi&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mk-saadi&theme=gruvbox&hide_border=true_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mk-saadi&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
